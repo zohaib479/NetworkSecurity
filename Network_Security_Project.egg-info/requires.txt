@@ -1,4 +1,4 @@
-numpy 
+numpy
 pandas
 scikit-learn
 flask
@@ -7,4 +7,3 @@ catboost
 python-dotenv
 pymongo
 certifi
--e .

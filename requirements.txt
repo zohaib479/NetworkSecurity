@@ -2,9 +2,10 @@ numpy
 pandas
 scikit-learn
 flask
+pymongo[srv]==3.6
 xgboost
 catboost
 python-dotenv
 pymongo
 certifi
--e .
+# -e .

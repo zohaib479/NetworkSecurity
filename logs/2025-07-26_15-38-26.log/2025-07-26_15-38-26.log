@@ -1,0 +1,2 @@
+[2025-07-26 15:38:31,207] 50 networkSecurity.logging.logger ERROR: Error in insert_data_to_mongodb method: module 'pymongo' has no attribute 'MongoCLinent'
+[2025-07-26 15:38:31,208] 64 networkSecurity.logging.logger ERROR: An error occurred: Error occurred in script name [d:\DS_project_02\NetworkSecurity\push_data.py] at line number [43] with error message [module 'pymongo' has no attribute 'MongoCLinent']
